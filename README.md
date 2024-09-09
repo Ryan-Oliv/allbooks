@@ -28,11 +28,11 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "vinicios neves",
-    "email": "vinicios@alura.com.br",
+    "nome": "ryan oliveira",
+    "email": "ryanpv.ttf@gmail.com",
     "senha": "123456",
-    "endereco": "Rua Vergueiro, 3185",
-    "complemento": "Vila Mariana",
+    "endereco": "Rua Brasil, 123",
+    "complemento": "Vila são paulo",
     "cep": "04101-300"
 }
 ```
@@ -52,7 +52,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "ryanpv.ttf@gmail.com",
   "senha":"123456"
 }
 ```
